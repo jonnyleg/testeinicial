@@ -1,1 +1,2 @@
 Incluindo um novo texto no arquivo
+Nova linha do adm
