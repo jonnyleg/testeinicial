@@ -1,1 +1,2 @@
 Incluindo um novo texto no arquivo
+Adiciona nova linha no arquivo
