@@ -1,2 +1,6 @@
 Contribuição do novo usuário
+<<<<<<< HEAD
 teste para testar
+=======
+teste novo
+>>>>>>> 436ce5cfe607d1e005b6817e9323c1424f632fda
