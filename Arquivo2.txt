@@ -2,3 +2,4 @@ Contribuição do novo usuário
 teste para testar
 teste novo, incluindo uma frase
 complementando
+inclusão de linha
